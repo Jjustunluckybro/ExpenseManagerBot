@@ -186,3 +186,4 @@ fabric.properties
 .idea/*
 idea/
 idea/*
+/src/migrations/versions/
